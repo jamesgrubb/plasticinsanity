@@ -13,9 +13,23 @@
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing \""
   },
   "dependencies": {
+    "@styled-system/css": "^5.0.23",
+    "babel-plugin-styled-components": "^1.10.6",
+    "colors.css": "^3.0.0",
     "gatsby": "^2.15.11",
+    "gatsby-plugin-postcss": "^2.1.6",
+    "gatsby-plugin-react-helmet": "^3.1.6",
+    "gatsby-plugin-styled-components": "^3.1.5",
+    "gatsby-source-sanity": "^5.0.2",
+    "prop-types": "^15.7.2",
     "react": "^16.9.0",
-    "react-dom": "^16.9.0"
+    "react-dom": "^16.9.0",
+    "react-helmet": "^5.2.1",
+    "styled-components": "^4.3.2",
+    "styled-icons": "^8.4.2",
+    "styled-normalize": "^8.0.6",
+    "styled-system": "^5.1.1",
+    "tachyons": "^4.11.1"
   },
   "devDependencies": {
     "prettier": "^1.18.2"
